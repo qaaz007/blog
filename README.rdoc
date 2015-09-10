@@ -1,7 +1,6 @@
 == README - updated
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Test rails blog app - Adnan
 
 Things you may want to cover:
 
